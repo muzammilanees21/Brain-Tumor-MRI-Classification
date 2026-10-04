@@ -1,0 +1,14 @@
+venv/
+.vscode/
+__pycache__/
+*.pyc
+.env
+.env.*
+data/raw/
+data/processed/
+data/*.db
+models/*.keras
+reports/
+storage/*.db
+.ipynb_checkpoints/
+.DS_Store
